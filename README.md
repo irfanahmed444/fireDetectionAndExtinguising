@@ -6,3 +6,6 @@
 5. Circuit diagram
 
 ![image](https://github.com/irfanahmed444/fireDetectionAndExtinguising/assets/94122885/2167185e-c9aa-4e62-8f12-f591bf6979e7)
+
+Demo video
+https://1drv.ms/v/s!AvTw1Qmj6sVDhoBGhomS4i6ZqaBp1A?e=33URO1
