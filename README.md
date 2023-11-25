@@ -9,3 +9,7 @@
 
 Demo video
 https://1drv.ms/v/s!AvTw1Qmj6sVDhoBGhomS4i6ZqaBp1A?e=33URO1
+
+6. From https://github.com/spacewalk01/yolov5-fire-detection
+7. Install Yolov5
+8. Replace detect.py file with the given file.
