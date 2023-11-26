@@ -5,7 +5,8 @@
 4. Install digitalio (to actuate water pump through GPIO): https://learn.adafruit.com/circuitpython-libraries-on-linux-and-the-nvidia-jetson-nano/digital-i-o
 5. Circuit diagram
 
-![image](https://github.com/irfanahmed444/fireDetectionAndExtinguising/assets/94122885/2167185e-c9aa-4e62-8f12-f591bf6979e7)
+![image](https://github.com/irfanahmed444/fireDetectionAndExtinguising/assets/94122885/5d5f4598-4d40-48d2-abb4-2fb45a70f109)
+
 
 
 6. From https://github.com/spacewalk01/yolov5-fire-detection
